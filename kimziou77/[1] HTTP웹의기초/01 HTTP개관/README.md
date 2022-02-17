@@ -1,5 +1,5 @@
 
-### [발표자료 보러가기(Slide Share)](https://www.slideshare.net/ssuser491981/11-http)
+### [발표자료 보러가기(Slide Share)](https://www.slideshare.net/ssuser491981/http-11-http-251193614)
 
 # HTTP 개관
 
